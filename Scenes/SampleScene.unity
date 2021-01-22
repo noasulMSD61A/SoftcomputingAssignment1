@@ -269,7 +269,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 211707593}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 30.54, y: -11.55, z: 0}
+  m_LocalPosition: {x: 30, y: -10, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -389,7 +389,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   data:
-    dataString: UEsDBBQAAAgIAAAIIew6nJ36SAIAAPEEAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF1VE1v2zAM/SuBzuuQBGm27ra5bbpDP9Cs6MUXWqJjIbJk6KNJWuS/j5Lt2M2wU5j3HqlHUvIHk9o1yL2xKyvFvRHIfkxYjNmXyUDe4R42Rq/lO/aaVyl8FUWQNM/gpSF8FtOcqdFbyX/qjYriKYFBy9LY+kZsMDPOO4JLUA6JssbHbE3Qx4Tt6efiKqYcKJp/i9E7RVfTyZFCjtqjHaS9sJe1qqC5grpBES0P4tm0l1OUhJra6TTROjdKSdd5Yf7QpF4zaFygTkggJFBvyUDUVyg3lY8+x8mPZenQd6YsHK6lpRG1Vdkv086tBrdtnb2BCniy3pa8/4e9mCW6tKa+609t+/GV5NtnOHBwfjTWMXz92XbQO1BbKBS+VqgfzMqaoAWR3oaYGhzOr4e/p8ayCvl2wFurZ2Bo/r+c2MMx9b7PlKyLSH1dtMBamTTttHq0tJffZDhdDNeVIDS6eHH4BzbjG9QRt9I6T1TXpY72ChNslLJbCuLcefCZsRoT2nluUIPyhyeq4s/3d8aNTj1jbiE+le7sjutfwFlKggf9dHpGPZndaVeuMrt7dNVj8EpqHExH4oHGlBmt2+s1Hkmftg62BD5K2wQpPt8sNisLXOLykhdYLhbL5QWAAPg+L5ZijlfF5ZKlqyc19QnqqTXajYeWpofimq5Z/wWZrCw06aoLC7uVfK/NaORSl2bNLaJ+bCucjKOlQ+hJihshaUBr9F7qtG72kTNl+BZFfiqUp05v9t5CPlTJWSPfjI9IzrL0ycjZkR3/AlBLAwQUAAAICAAACCHsRB8uc20AAAB4AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNVRUEovSizIKAaKGII4pZkpIHa0kmFaUqpZqplpclJqmomJmZluYmJKYqKFUZJZilGqZZKpmVIsUH1JZUGqX2JuKkRPQGJJRlpmXkpmXrqee1FmijvIaKXYWgBQSwECLQAUAAAICAAACCHsOpyd+kgCAADxBAAACwAkAAAAAAAAAAAAAAAAAAAAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAICAAACCHsRB8uc20AAAB4AAAACQAkAAAAAAAAAAAAAACVAgAAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsFBgAAAAACAAIAuAAAAE0DAAAAAA==
+    dataString: UEsDBBQAAAgIAAAIIewl31LXYAIAAAkFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFlVMty2jAU/RVG65KxXXBKdy0Q0kUeE9rJxhtZusYaZMkjyQGS4d97JdvYISsu59zHuQ/5gwhla2BOm40R/EFzID8nxNvk22Qg7+FId1ptxTv0Pq+Cu9I70eDzQp3QiMc+zOoKnBHsl9pJ7xwh2ChRaFOt+Q6W2jqLcEGlBaSMdj5aIfQxIUf8mS58yAmt5NZb72gtoskZTQbKgRlce8f4Jonni++z2/l6Gs27mOQmTqMIkTgJwY1iklY1cN/JkCOOLlmitorCLjsf3xHTUgrbSSTuVIcRbOsSDPgZcEGx4yDLu5cgdqXz9cexT0VhwXWSDT2thMHBtUnJb91Os6J23wp7o7LxZZJ5GiS1SR++8NM40IXR1X1ft23IlYLtX+iJUetG4x7Dq8/CG3Wgck9zCa8lqEe9MbpRHElnGh/aWEhWw99La8sS2H7AW6lXYFN/XVq/W9/DOXR/XEpR5Z66mbXAVuow7nASYHAxf1BwOBjbpUDUq/hn4S/djS+rI+6EsQ6prkvl5eW6Md6V3KHhJ88at9RGQUA7zTUoKt3pGbO46w1ecaOqV8wd9U+oq91x/cu4Cgnw4B9FV9SzPlx2ZUt9eABbPjVOCgWDaE884piWWqn2wMYj6cO2jSkoG4XtGsE/XxaJixxSSOcsh2I2S9MppZzSH0me8gQW+Twl4fSEwj6pfG6FduPBpakhucIz678sk42hdTh2buhhI94rPRq5UIXeMgOgntoMF+FgsAi+Sb7mAge0BeeECusmHxmRmu2BZ5dEWeh0fXSGZkOWjNTiTTuPZGQZPiUZOZPzf1BLAwQUAAAICAAACCHsRB8uc20AAAB4AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNVRUEovSizIKAaKGII4pZkpIHa0kmFaUqpZqplpclJqmomJmZluYmJKYqKFUZJZilGqZZKpmVIsUH1JZUGqX2JuKkRPQGJJRlpmXkpmXrqee1FmijvIaKXYWgBQSwECLQAUAAAICAAACCHsJd9S12ACAAAJBQAACwAkAAAAAAAAAAAAAAAAAAAAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwECLQAUAAAICAAACCHsRB8uc20AAAB4AAAACQAkAAAAAAAAAAAAAACtAgAAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsFBgAAAAACAAIAuAAAAGUDAAAAAA==
     upgradeData: 
     file_cachedStartup: {fileID: 0}
     data_cachedStartup: 
@@ -417,7 +417,39 @@ MonoBehaviour:
     _MeshEdgeColor: {r: 0, g: 0, b: 0, a: 0.5}
     _AreaColors:
     - {r: 0, g: 0, b: 0, a: 0}
-  tagNames: []
+  tagNames:
+  - Basic Ground
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  - 19
+  - 20
+  - 21
+  - 22
+  - 23
+  - 24
+  - 25
+  - 26
+  - 27
+  - 28
+  - 29
+  - 30
+  - 31
   heuristic: 2
   heuristicScale: 1
   threadCount: 1
@@ -438,7 +470,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1294810772}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -3.3050818, y: 0.9640337, z: -5.5548563}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
