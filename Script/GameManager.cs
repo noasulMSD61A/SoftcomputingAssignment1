@@ -6,15 +6,20 @@ public class GameManager : MonoBehaviour
 {
     
     GameObject AI;
+    
     GameObject Obstacles;
     void Start()
     {
+       
         AI = Resources.Load("AI") as GameObject;
+
+        
         //Instantiate(AI, new Vector3(-40,40,0), Quaternion.identity); KU2 part 1
         for (int i = 0; i <= 10; i++)
         {
             Instantiate(AI, new Vector3(Random.Range(-48f, 48f), Random.Range(-48f, 48f), 0), Quaternion.identity);
         }
+
 
         Obstacles = Resources.Load("Obstacle") as GameObject;
         for (int i = 0; i <= 4; i++)

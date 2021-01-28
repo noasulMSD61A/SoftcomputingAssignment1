@@ -30,9 +30,9 @@ public class customMove : MonoBehaviour
                 while (Vector3.Distance(pos.position, positns[count]) >= 1f)//while the distance of the enemy from the position of the ai is more than 0.5f
                 {                                                            
                     pos.position = Vector3.MoveTowards(pos.position, positns[count], 1f);//move the position of the ai to the position of the enemy
-                    yield return new WaitForSeconds(0.2f);//wait 
                     pathToFollow = seeker.StartPath(pos.position, target.position);//making sure that the ai will not follow the path back when its done by removing the path
                     yield return seeker.IsDone();//making sure that the attempt to find it is done when it is on the enemy pos
+                    yield return new WaitForSeconds(0.2f);//wait 
                 }
             }
             yield return null;

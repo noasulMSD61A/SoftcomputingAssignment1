@@ -36,6 +36,8 @@ public class AIavoid : MonoBehaviour
     }
 
 
+
+
     //This script beneath work as well but i am not sure if it is a 100% correct
 
 
