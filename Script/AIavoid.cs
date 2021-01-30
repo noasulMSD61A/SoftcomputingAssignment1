@@ -35,7 +35,8 @@ public class AIavoid : MonoBehaviour
 
     }
 
-
+    //in A* pro this function is called local avoidance, which is based on RVO (reciprocial velocity obstacles), which means that not one ai takes all the responisbilty for avoiding obstacles
+    //but instead the responsibility is split between the agents. It is implemented by using sampling and gradient descent, which will aid the ai to find the best (optimal) velocity to move with.
 
 
     //This script beneath work as well but i am not sure if it is a 100% correct
